@@ -1,1 +1,1 @@
-# curso_intro_nn
+# Curso Introductorio al Uso de Redes Neuronales para Todas las Profesiones
