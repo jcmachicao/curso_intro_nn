@@ -1,0 +1,901 @@
+Edad,Hora,Sexo,Area,Ingreso,Violento
+Niño,17,M,A1,2,Violento
+Niño,3,F,A3,4,No Violento
+Niño,19,F,A1,3,Violento
+Niño,23,M,A1,2,No Violento
+Niño,7,F,A2,5,Violento
+Adulto,22,M,A4,1,No Violento
+AdultoMayor,0,M,A1,2,Violento
+Niño,15,M,A3,1,No Violento
+Joven,1,F,A4,5,Violento
+Joven,9,F,A1,1,No Violento
+Adulto,10,M,A4,2,No Violento
+Joven,5,F,A4,4,No Violento
+Adulto,17,M,A2,1,No Violento
+Joven,15,F,A3,3,Violento
+Niño,12,M,A1,5,Violento
+Joven,2,F,A1,4,No Violento
+Adulto,17,M,A2,1,No Violento
+AdultoMayor,12,F,A2,3,No Violento
+Niño,16,M,A1,3,No Violento
+Niño,7,M,A3,2,Violento
+Adulto,19,M,A4,4,Violento
+Joven,17,F,A1,3,Violento
+Niño,0,F,A2,2,No Violento
+Niño,22,M,A2,2,No Violento
+Niño,7,M,A4,3,No Violento
+Niño,15,M,A1,5,No Violento
+Adulto,6,F,A1,5,No Violento
+Niño,13,M,A1,5,No Violento
+Niño,6,M,A4,2,Violento
+Adulto,9,F,A3,5,Violento
+AdultoMayor,16,F,A2,4,Violento
+Joven,14,M,A1,5,No Violento
+Niño,13,F,A3,3,Violento
+Joven,16,F,A2,5,No Violento
+Adulto,16,M,A2,5,No Violento
+Niño,23,M,A2,1,Violento
+AdultoMayor,10,F,A1,1,No Violento
+Joven,19,F,A1,3,No Violento
+Adulto,1,M,A4,3,Violento
+Adulto,24,M,A4,2,No Violento
+Joven,15,M,A4,5,No Violento
+Adulto,20,F,A2,1,Violento
+Niño,15,M,A1,2,No Violento
+AdultoMayor,12,M,A3,1,No Violento
+Niño,4,F,A1,4,No Violento
+Joven,14,F,A2,4,No Violento
+Niño,9,M,A4,1,No Violento
+Joven,13,F,A4,3,Violento
+Joven,12,M,A2,4,No Violento
+Niño,18,F,A1,4,Violento
+Niño,10,M,A3,4,Violento
+Niño,2,F,A2,1,Violento
+Niño,18,F,A2,2,No Violento
+Adulto,0,F,A2,1,Violento
+Niño,12,M,A1,4,No Violento
+Joven,24,M,A1,5,No Violento
+Joven,19,F,A4,5,Violento
+AdultoMayor,3,M,A1,4,No Violento
+Niño,24,F,A2,4,No Violento
+AdultoMayor,9,M,A4,2,No Violento
+Niño,17,M,A1,3,Violento
+Adulto,14,F,A3,1,Violento
+Adulto,19,M,A4,3,No Violento
+Adulto,19,F,A2,5,No Violento
+Niño,10,M,A2,5,No Violento
+Adulto,1,F,A2,4,Violento
+Joven,15,F,A4,2,Violento
+Adulto,12,F,A1,5,No Violento
+Adulto,4,M,A3,4,No Violento
+Adulto,10,F,A4,4,No Violento
+Niño,23,M,A4,4,No Violento
+Adulto,21,F,A2,5,Violento
+AdultoMayor,13,M,A1,4,No Violento
+Niño,21,F,A4,5,Violento
+AdultoMayor,7,F,A2,3,Violento
+Niño,7,F,A1,5,No Violento
+AdultoMayor,9,F,A2,5,No Violento
+Joven,9,F,A2,2,No Violento
+AdultoMayor,12,M,A1,4,No Violento
+Joven,15,M,A4,2,No Violento
+Joven,15,M,A1,4,Violento
+Joven,13,F,A2,2,No Violento
+Niño,14,M,A2,5,Violento
+Adulto,0,M,A4,2,Violento
+Joven,17,F,A2,4,No Violento
+Joven,16,F,A4,4,Violento
+AdultoMayor,15,M,A3,4,Violento
+AdultoMayor,3,F,A2,2,No Violento
+Niño,8,F,A4,5,Violento
+Joven,7,M,A2,1,Violento
+Adulto,5,M,A1,1,No Violento
+AdultoMayor,21,F,A1,3,No Violento
+Joven,13,F,A4,1,No Violento
+AdultoMayor,10,M,A1,5,No Violento
+AdultoMayor,6,M,A2,1,Violento
+Niño,13,F,A2,2,No Violento
+Joven,19,M,A2,5,No Violento
+Adulto,6,M,A4,2,No Violento
+Joven,10,M,A1,2,Violento
+Niño,13,F,A1,2,Violento
+Joven,21,M,A1,2,No Violento
+Niño,11,F,A3,5,Violento
+Adulto,22,F,A1,4,Violento
+AdultoMayor,23,M,A1,5,No Violento
+AdultoMayor,13,F,A2,5,Violento
+Adulto,16,M,A4,1,No Violento
+Niño,11,M,A1,4,No Violento
+Joven,7,M,A3,2,No Violento
+AdultoMayor,20,F,A4,5,Violento
+Adulto,4,F,A1,5,No Violento
+AdultoMayor,4,M,A4,1,No Violento
+Joven,11,F,A4,5,Violento
+AdultoMayor,2,M,A2,5,No Violento
+Joven,6,F,A3,5,Violento
+Niño,21,M,A1,3,No Violento
+Niño,21,F,A1,5,No Violento
+Joven,5,M,A2,3,No Violento
+AdultoMayor,6,F,A2,1,Violento
+Adulto,2,M,A1,4,Violento
+Joven,22,M,A3,2,No Violento
+AdultoMayor,8,M,A4,5,No Violento
+Joven,21,F,A1,3,No Violento
+Joven,19,F,A2,4,Violento
+Joven,10,M,A2,4,Violento
+Niño,5,M,A4,3,Violento
+Joven,13,M,A1,2,No Violento
+Niño,21,F,A1,5,No Violento
+AdultoMayor,11,M,A1,1,No Violento
+Adulto,21,M,A4,5,Violento
+Joven,2,F,A3,5,Violento
+Adulto,7,F,A2,3,No Violento
+Joven,7,M,A1,4,No Violento
+AdultoMayor,2,F,A3,3,Violento
+Joven,19,F,A2,1,No Violento
+Niño,11,M,A2,4,No Violento
+Niño,6,M,A2,5,No Violento
+Joven,5,F,A1,2,No Violento
+Joven,10,F,A1,1,No Violento
+Adulto,20,M,A4,3,Violento
+Joven,19,M,A4,4,No Violento
+Adulto,19,M,A4,4,No Violento
+Joven,24,F,A2,1,Violento
+AdultoMayor,0,M,A1,3,No Violento
+Joven,15,M,A3,4,No Violento
+Adulto,17,F,A1,3,Violento
+AdultoMayor,6,F,A2,5,No Violento
+Adulto,14,M,A4,5,No Violento
+AdultoMayor,11,F,A4,1,Violento
+Adulto,9,M,A2,4,No Violento
+Niño,4,F,A1,2,Violento
+AdultoMayor,9,M,A3,3,Violento
+Niño,14,F,A2,4,Violento
+Niño,6,F,A2,2,No Violento
+Adulto,9,F,A2,1,No Violento
+AdultoMayor,0,M,A1,3,Violento
+Adulto,17,M,A1,2,No Violento
+Joven,0,F,A4,1,Violento
+Adulto,9,M,A1,1,No Violento
+Adulto,10,F,A2,5,Violento
+Joven,6,M,A4,5,No Violento
+Joven,1,M,A1,4,Violento
+Joven,6,F,A3,4,Violento
+Joven,3,M,A4,3,No Violento
+Adulto,24,F,A2,1,Violento
+Niño,2,M,A2,5,No Violento
+Joven,6,F,A2,3,No Violento
+Joven,20,F,A4,1,Violento
+Niño,8,F,A1,3,No Violento
+Niño,11,M,A3,5,Violento
+Joven,23,F,A4,5,No Violento
+Adulto,14,M,A4,2,Violento
+Joven,14,F,A2,5,Violento
+AdultoMayor,3,M,A1,5,No Violento
+Niño,5,F,A4,1,Violento
+Joven,22,F,A2,4,No Violento
+AdultoMayor,22,F,A1,5,Violento
+Adulto,15,F,A2,4,No Violento
+Adulto,17,F,A2,5,No Violento
+AdultoMayor,17,M,A1,2,Violento
+Adulto,18,M,A4,2,No Violento
+Joven,11,M,A1,4,Violento
+Adulto,18,F,A2,3,Violento
+AdultoMayor,19,M,A2,3,No Violento
+Niño,9,M,A4,1,No Violento
+Joven,9,F,A2,5,No Violento
+Niño,12,F,A4,4,Violento
+Adulto,17,M,A3,4,Violento
+AdultoMayor,12,F,A2,4,No Violento
+AdultoMayor,23,F,A4,5,Violento
+Adulto,3,M,A2,2,No Violento
+Niño,11,M,A1,1,No Violento
+AdultoMayor,24,F,A1,5,No Violento
+Joven,3,F,A4,4,No Violento
+Niño,1,M,A1,3,No Violento
+Joven,23,M,A2,5,No Violento
+AdultoMayor,22,F,A2,3,Violento
+AdultoMayor,15,M,A2,3,Violento
+Joven,3,M,A4,1,No Violento
+Niño,18,M,A1,2,Violento
+AdultoMayor,14,F,A1,4,No Violento
+Joven,15,M,A1,1,Violento
+Adulto,5,F,A3,5,Violento
+Niño,5,F,A1,2,No Violento
+AdultoMayor,14,M,A1,3,No Violento
+Niño,3,F,A2,2,No Violento
+AdultoMayor,19,M,A4,1,No Violento
+Joven,18,M,A1,2,No Violento
+AdultoMayor,8,M,A3,5,No Violento
+AdultoMayor,3,F,A4,1,Violento
+Niño,14,F,A1,1,No Violento
+Niño,22,M,A4,3,No Violento
+Adulto,21,F,A4,1,No Violento
+Joven,10,M,A2,4,No Violento
+Niño,21,F,A3,2,Violento
+Adulto,20,M,A1,4,Violento
+Joven,6,F,A1,2,No Violento
+Adulto,5,M,A2,4,No Violento
+Niño,21,F,A2,1,No Violento
+Niño,8,M,A1,5,No Violento
+Niño,11,M,A3,3,Violento
+Adulto,16,M,A4,5,Violento
+Niño,6,F,A1,4,No Violento
+Adulto,17,F,A2,3,Violento
+Joven,8,M,A2,1,Violento
+Niño,4,M,A4,3,Violento
+Joven,19,M,A1,1,No Violento
+Niño,16,F,A1,3,No Violento
+Joven,0,M,A1,1,No Violento
+Niño,20,M,A4,1,No Violento
+Joven,20,F,A3,3,Violento
+Joven,2,F,A2,4,Violento
+AdultoMayor,24,M,A1,4,No Violento
+AdultoMayor,17,F,A3,2,Violento
+AdultoMayor,19,F,A2,4,No Violento
+Joven,5,M,A2,3,No Violento
+Joven,18,M,A2,1,No Violento
+Adulto,9,F,A1,1,No Violento
+Adulto,7,F,A1,2,Violento
+Joven,12,M,A4,5,Violento
+Niño,6,M,A4,5,No Violento
+Niño,2,M,A4,3,No Violento
+AdultoMayor,15,F,A2,3,Violento
+Adulto,18,M,A1,1,No Violento
+Adulto,15,M,A3,2,No Violento
+Joven,6,F,A1,5,No Violento
+Joven,10,F,A2,1,Violento
+Niño,22,M,A4,4,No Violento
+Adulto,10,F,A4,5,No Violento
+Joven,18,M,A2,3,No Violento
+AdultoMayor,24,F,A1,4,Violento
+Joven,24,M,A3,3,No Violento
+Joven,3,F,A2,1,Violento
+AdultoMayor,11,F,A2,2,No Violento
+AdultoMayor,5,F,A2,1,No Violento
+Niño,23,M,A1,4,No Violento
+AdultoMayor,3,M,A1,3,No Violento
+Adulto,7,F,A4,1,Violento
+Adulto,1,M,A1,1,No Violento
+AdultoMayor,15,F,A2,2,No Violento
+AdultoMayor,5,M,A4,3,No Violento
+AdultoMayor,21,M,A1,3,Violento
+Joven,2,F,A3,5,Violento
+Joven,5,M,A4,1,No Violento
+Niño,13,F,A2,1,Violento
+Joven,0,M,A2,1,No Violento
+Niño,13,F,A1,5,Violento
+AdultoMayor,10,F,A4,3,Violento
+Adulto,8,F,A4,2,Violento
+AdultoMayor,21,M,A4,1,Violento
+Joven,7,F,A2,2,No Violento
+Niño,5,M,A1,2,No Violento
+AdultoMayor,16,F,A3,5,Violento
+Niño,0,M,A1,2,No Violento
+Adulto,14,M,A2,5,Violento
+Joven,6,M,A4,1,No Violento
+Adulto,5,F,A4,2,No Violento
+Joven,23,F,A2,2,No Violento
+AdultoMayor,5,M,A1,4,Violento
+Niño,18,F,A3,1,Violento
+AdultoMayor,18,M,A2,5,No Violento
+Joven,13,F,A2,3,No Violento
+Niño,21,M,A2,2,No Violento
+AdultoMayor,14,F,A1,3,Violento
+Adulto,13,M,A1,4,No Violento
+Adulto,5,F,A4,4,Violento
+Niño,7,M,A1,5,No Violento
+Joven,13,M,A2,5,No Violento
+Joven,17,M,A4,5,No Violento
+AdultoMayor,17,F,A1,3,No Violento
+Adulto,19,F,A3,3,Violento
+AdultoMayor,16,M,A4,4,No Violento
+Niño,11,M,A4,1,No Violento
+Niño,0,M,A1,3,No Violento
+Niño,17,F,A1,1,Violento
+Joven,18,M,A1,5,Violento
+AdultoMayor,20,M,A4,2,No Violento
+Adulto,7,F,A3,5,Violento
+Adulto,0,F,A2,1,Violento
+Niño,3,M,A1,4,No Violento
+Niño,7,F,A1,5,No Violento
+Adulto,11,M,A1,4,No Violento
+Joven,3,F,A3,4,No Violento
+AdultoMayor,18,F,A1,1,No Violento
+Adulto,14,M,A1,3,No Violento
+Adulto,14,F,A2,3,No Violento
+Niño,12,M,A4,2,No Violento
+Joven,9,M,A1,2,Violento
+Niño,15,M,A3,3,No Violento
+AdultoMayor,21,F,A4,5,Violento
+Joven,18,F,A1,5,Violento
+Joven,7,M,A4,1,No Violento
+Adulto,4,F,A4,1,No Violento
+AdultoMayor,15,M,A2,1,No Violento
+Adulto,3,F,A3,3,Violento
+AdultoMayor,18,M,A1,2,No Violento
+Joven,23,F,A1,3,No Violento
+Joven,21,M,A2,2,No Violento
+Adulto,7,F,A2,1,No Violento
+Adulto,9,M,A1,1,Violento
+AdultoMayor,11,M,A3,2,Violento
+Joven,24,M,A4,4,Violento
+Niño,6,F,A1,3,No Violento
+AdultoMayor,11,F,A2,1,Violento
+Niño,21,M,A2,3,No Violento
+Niño,21,M,A4,1,No Violento
+Niño,1,M,A1,4,No Violento
+Joven,24,F,A1,2,No Violento
+Joven,4,M,A1,1,No Violento
+Adulto,12,M,A4,2,Violento
+Joven,24,F,A3,4,Violento
+Adulto,18,F,A2,3,Violento
+Niño,20,M,A1,2,No Violento
+Adulto,0,F,A3,1,Violento
+Adulto,12,M,A4,2,No Violento
+Joven,0,M,A1,3,No Violento
+Adulto,19,M,A3,1,Violento
+Joven,7,F,A4,3,Violento
+Joven,11,F,A1,5,Violento
+Niño,19,M,A4,1,Violento
+AdultoMayor,5,F,A4,4,No Violento
+AdultoMayor,17,M,A2,5,Violento
+Adulto,17,F,A3,5,Violento
+AdultoMayor,4,M,A1,3,No Violento
+Adulto,0,F,A1,4,No Violento
+Adulto,3,M,A2,4,No Violento
+Niño,14,F,A2,2,No Violento
+Niño,1,M,A1,2,No Violento
+Joven,3,M,A3,2,No Violento
+Adulto,18,M,A4,5,No Violento
+Joven,10,F,A1,2,No Violento
+AdultoMayor,4,F,A2,2,Violento
+Adulto,11,M,A2,5,No Violento
+Niño,5,M,A4,1,No Violento
+Niño,22,M,A1,2,No Violento
+Niño,16,F,A1,2,Violento
+Niño,16,M,A1,1,No Violento
+Adulto,14,M,A4,3,No Violento
+Adulto,10,F,A3,5,No Violento
+Joven,0,F,A2,3,No Violento
+Niño,20,M,A1,4,No Violento
+Adulto,14,M,A1,1,No Violento
+Joven,8,F,A3,2,Violento
+Niño,14,M,A4,5,No Violento
+Joven,8,F,A2,2,No Violento
+Joven,0,M,A2,4,No Violento
+Joven,12,F,A2,1,Violento
+AdultoMayor,24,F,A4,5,Violento
+Adulto,15,F,A1,3,No Violento
+Niño,21,M,A3,1,Violento
+Niño,11,F,A4,5,No Violento
+Niño,11,M,A4,3,Violento
+Joven,18,F,A1,1,No Violento
+Joven,13,M,A4,1,Violento
+Joven,23,F,A4,5,No Violento
+Niño,22,F,A4,4,Violento
+AdultoMayor,12,F,A2,1,Violento
+AdultoMayor,15,F,A1,1,Violento
+Adulto,11,F,A3,4,No Violento
+AdultoMayor,1,M,A1,1,No Violento
+Joven,14,M,A2,4,No Violento
+Niño,13,M,A4,1,No Violento
+AdultoMayor,15,F,A4,2,No Violento
+Joven,19,M,A2,5,No Violento
+Niño,3,M,A1,2,No Violento
+AdultoMayor,19,F,A3,2,Violento
+Adulto,12,F,A2,4,Violento
+AdultoMayor,17,M,A2,1,No Violento
+Niño,8,F,A2,4,No Violento
+Adulto,0,F,A1,2,Violento
+AdultoMayor,7,M,A1,3,No Violento
+Adulto,7,M,A4,1,Violento
+Joven,13,F,A1,2,No Violento
+Joven,24,F,A2,4,No Violento
+Niño,1,M,A4,1,No Violento
+Joven,21,M,A1,5,No Violento
+Niño,13,F,A3,2,Violento
+Joven,18,M,A4,2,No Violento
+Niño,20,M,A4,4,No Violento
+AdultoMayor,8,M,A1,1,No Violento
+AdultoMayor,17,F,A1,2,No Violento
+AdultoMayor,24,M,A1,2,Violento
+AdultoMayor,17,F,A3,4,No Violento
+Joven,11,F,A1,3,Violento
+Joven,18,M,A1,1,No Violento
+Niño,24,F,A2,1,No Violento
+Adulto,5,M,A4,1,No Violento
+Niño,11,M,A1,4,Violento
+Joven,14,M,A3,2,No Violento
+AdultoMayor,19,F,A4,2,Violento
+Niño,3,F,A1,2,Violento
+AdultoMayor,21,M,A4,4,No Violento
+AdultoMayor,13,F,A4,5,No Violento
+Niño,11,M,A2,2,No Violento
+Niño,9,F,A3,3,Violento
+Niño,5,M,A1,4,Violento
+AdultoMayor,0,F,A1,5,No Violento
+AdultoMayor,19,M,A2,2,No Violento
+Joven,2,F,A2,4,Violento
+Joven,13,M,A1,2,No Violento
+Adulto,19,M,A3,4,No Violento
+Adulto,3,M,A4,5,No Violento
+Niño,14,F,A1,4,No Violento
+AdultoMayor,9,F,A2,5,No Violento
+AdultoMayor,5,M,A2,2,Violento
+Adulto,19,M,A4,5,Violento
+Adulto,20,M,A1,2,No Violento
+Niño,13,F,A1,2,No Violento
+Adulto,24,M,A1,3,No Violento
+AdultoMayor,2,M,A4,4,Violento
+Adulto,3,F,A3,3,Violento
+Niño,18,F,A2,4,Violento
+Joven,16,M,A1,4,No Violento
+Adulto,12,F,A3,4,Violento
+Adulto,17,F,A2,5,No Violento
+Joven,2,M,A2,1,No Violento
+Niño,21,M,A2,2,Violento
+Joven,5,F,A1,1,Violento
+Adulto,11,F,A1,1,No Violento
+Joven,7,M,A4,5,Violento
+Joven,4,M,A4,2,No Violento
+Niño,14,M,A4,5,Violento
+AdultoMayor,17,F,A2,3,No Violento
+Niño,19,M,A1,4,No Violento
+AdultoMayor,3,M,A3,1,No Violento
+Niño,0,F,A1,2,Violento
+Niño,15,F,A2,5,Violento
+Joven,4,M,A4,3,No Violento
+Joven,10,F,A4,3,No Violento
+AdultoMayor,11,M,A2,3,No Violento
+Niño,13,F,A1,5,Violento
+Joven,17,M,A3,4,Violento
+AdultoMayor,22,F,A2,1,No Violento
+Joven,21,F,A2,4,No Violento
+Adulto,22,F,A2,1,No Violento
+Niño,24,M,A1,3,Violento
+AdultoMayor,7,M,A1,5,No Violento
+Joven,23,F,A4,2,Violento
+Joven,24,M,A1,3,No Violento
+Adulto,18,F,A2,5,No Violento
+Joven,17,M,A4,4,No Violento
+AdultoMayor,15,M,A1,3,No Violento
+Joven,1,F,A3,5,Violento
+Niño,14,M,A4,3,No Violento
+AdultoMayor,16,F,A2,5,Violento
+Adulto,21,M,A2,5,No Violento
+AdultoMayor,10,F,A2,1,Violento
+Adulto,19,F,A4,2,Violento
+Joven,9,F,A1,5,No Violento
+AdultoMayor,5,M,A3,4,No Violento
+AdultoMayor,0,F,A4,5,No Violento
+AdultoMayor,10,M,A4,2,No Violento
+Niño,10,F,A2,4,No Violento
+Niño,18,M,A1,2,No Violento
+Joven,22,F,A4,1,No Violento
+Joven,6,F,A2,1,No Violento
+Adulto,3,F,A1,1,Violento
+Niño,19,F,A2,3,No Violento
+Niño,19,F,A2,1,No Violento
+Adulto,1,M,A1,3,Violento
+Adulto,15,M,A4,4,No Violento
+Niño,13,M,A1,3,No Violento
+Joven,1,F,A2,5,No Violento
+Niño,8,M,A2,4,No Violento
+Joven,2,M,A4,1,Violento
+Adulto,8,F,A2,1,No Violento
+Joven,5,F,A4,5,Violento
+Joven,2,M,A3,2,Violento
+AdultoMayor,13,F,A2,3,No Violento
+AdultoMayor,14,F,A4,4,Violento
+Joven,7,M,A2,3,No Violento
+Joven,3,M,A1,4,Violento
+AdultoMayor,15,F,A1,3,No Violento
+Joven,13,F,A4,3,Violento
+AdultoMayor,15,M,A1,5,No Violento
+Joven,10,M,A2,4,Violento
+AdultoMayor,16,F,A2,4,Violento
+Adulto,19,M,A2,3,Violento
+Niño,7,M,A4,1,No Violento
+Niño,7,M,A1,5,Violento
+Joven,17,F,A1,4,No Violento
+Niño,15,M,A1,3,Violento
+Adulto,3,F,A3,5,Violento
+Adulto,20,F,A1,5,No Violento
+Adulto,4,M,A1,1,No Violento
+Niño,3,F,A2,5,No Violento
+Joven,23,M,A4,2,No Violento
+Adulto,24,M,A1,4,Violento
+Niño,5,M,A3,2,No Violento
+Niño,19,F,A4,3,Violento
+Joven,17,F,A1,5,Violento
+Adulto,17,M,A4,5,No Violento
+Niño,15,F,A4,5,No Violento
+Adulto,3,M,A2,4,No Violento
+Niño,18,F,A3,2,Violento
+AdultoMayor,11,M,A1,2,No Violento
+Joven,22,F,A1,4,No Violento
+Joven,8,M,A2,5,No Violento
+Adulto,10,F,A2,3,No Violento
+Adulto,19,M,A1,1,Violento
+Joven,21,M,A3,1,No Violento
+Adulto,17,M,A4,4,No Violento
+AdultoMayor,6,F,A1,5,Violento
+AdultoMayor,14,F,A2,5,No Violento
+Niño,18,M,A2,3,Violento
+AdultoMayor,4,M,A4,5,Violento
+Joven,20,M,A1,1,No Violento
+AdultoMayor,12,F,A1,3,No Violento
+Niño,3,M,A1,2,No Violento
+Adulto,24,M,A4,1,Violento
+Niño,12,F,A3,2,Violento
+Niño,24,F,A2,5,Violento
+Adulto,15,M,A1,5,No Violento
+Niño,17,F,A3,2,Violento
+Niño,24,F,A2,2,No Violento
+Niño,14,M,A2,2,No Violento
+Adulto,2,M,A2,5,No Violento
+Joven,6,F,A1,4,Violento
+Adulto,21,F,A1,5,No Violento
+Niño,6,M,A4,1,Violento
+Niño,4,M,A4,4,No Violento
+Niño,18,M,A4,5,Violento
+Joven,10,F,A2,4,Violento
+Niño,10,M,A1,1,No Violento
+Adulto,1,M,A3,3,No Violento
+AdultoMayor,14,F,A1,2,No Violento
+Joven,1,F,A2,4,No Violento
+Adulto,8,M,A4,5,No Violento
+Adulto,5,F,A4,3,No Violento
+Niño,18,M,A2,5,No Violento
+Niño,11,F,A1,1,Violento
+Adulto,13,M,A3,3,No Violento
+Niño,4,F,A2,3,No Violento
+Adulto,22,F,A2,1,No Violento
+Adulto,10,F,A2,1,Violento
+Joven,3,M,A1,2,No Violento
+Adulto,24,M,A1,2,No Violento
+Joven,24,F,A4,1,Violento
+Adulto,8,M,A1,1,No Violento
+Adulto,0,F,A2,3,No Violento
+AdultoMayor,8,M,A4,5,No Violento
+Adulto,23,M,A1,2,No Violento
+Joven,4,F,A3,3,Violento
+AdultoMayor,14,M,A4,4,No Violento
+Niño,12,F,A2,4,Violento
+AdultoMayor,7,M,A2,4,No Violento
+Joven,10,F,A2,1,Violento
+Adulto,7,F,A4,2,Violento
+Niño,4,F,A1,5,No Violento
+Adulto,20,M,A3,1,No Violento
+Joven,14,F,A4,1,No Violento
+Adulto,20,M,A4,4,Violento
+Niño,16,F,A2,5,No Violento
+Adulto,15,M,A1,3,No Violento
+Adulto,13,F,A4,5,No Violento
+Adulto,0,F,A2,4,No Violento
+Adulto,10,F,A1,3,Violento
+AdultoMayor,5,F,A2,2,Violento
+Joven,13,F,A2,4,No Violento
+Niño,1,M,A1,1,Violento
+Joven,19,M,A4,3,No Violento
+AdultoMayor,11,M,A1,4,No Violento
+AdultoMayor,21,F,A2,4,No Violento
+Adulto,2,M,A2,5,Violento
+Niño,18,M,A4,1,Violento
+AdultoMayor,12,F,A2,2,No Violento
+AdultoMayor,17,F,A4,3,Violento
+AdultoMayor,14,M,A3,5,Violento
+Joven,8,F,A2,1,Violento
+Adulto,12,F,A4,5,Violento
+Niño,9,M,A2,5,No Violento
+AdultoMayor,2,M,A1,3,Violento
+Adulto,20,F,A1,3,No Violento
+AdultoMayor,8,F,A4,5,No Violento
+Joven,20,M,A1,1,No Violento
+AdultoMayor,22,M,A2,1,Violento
+Niño,21,F,A2,4,No Violento
+Niño,20,M,A2,2,Violento
+Niño,21,M,A4,1,No Violento
+AdultoMayor,8,M,A1,1,No Violento
+Niño,16,F,A1,2,No Violento
+AdultoMayor,15,M,A1,5,No Violento
+Joven,21,F,A3,5,No Violento
+Joven,22,F,A1,3,No Violento
+Niño,10,M,A1,5,No Violento
+AdultoMayor,14,F,A2,5,No Violento
+Joven,5,M,A4,5,No Violento
+Niño,0,M,A1,2,Violento
+Joven,14,M,A3,2,No Violento
+Joven,13,F,A4,2,Violento
+AdultoMayor,23,F,A1,4,Violento
+Adulto,5,M,A4,3,No Violento
+Joven,14,F,A4,5,Violento
+Joven,14,M,A2,3,No Violento
+Adulto,9,F,A3,4,Violento
+Joven,15,M,A1,5,No Violento
+Niño,16,F,A1,2,No Violento
+AdultoMayor,5,M,A2,1,No Violento
+Niño,20,F,A2,2,No Violento
+AdultoMayor,21,M,A1,1,No Violento
+Joven,19,M,A3,2,No Violento
+Niño,23,M,A4,3,Violento
+Joven,12,F,A1,3,No Violento
+AdultoMayor,6,F,A2,2,Violento
+Niño,20,M,A2,3,Violento
+Niño,3,M,A4,3,Violento
+Joven,11,M,A1,5,No Violento
+Adulto,7,F,A1,5,No Violento
+AdultoMayor,9,M,A1,2,No Violento
+Niño,0,M,A4,1,Violento
+Joven,0,F,A3,1,Violento
+AdultoMayor,22,F,A2,5,Violento
+Niño,16,M,A1,5,No Violento
+AdultoMayor,5,F,A3,2,Violento
+AdultoMayor,4,F,A2,5,No Violento
+Joven,11,M,A2,4,No Violento
+AdultoMayor,8,M,A2,5,No Violento
+Joven,8,F,A1,3,No Violento
+Joven,7,F,A1,3,No Violento
+Adulto,0,M,A4,5,Violento
+Joven,0,M,A4,5,No Violento
+Adulto,8,M,A4,2,Violento
+AdultoMayor,9,F,A2,1,No Violento
+Joven,0,M,A1,1,Violento
+Niño,19,M,A3,5,No Violento
+Adulto,3,F,A1,1,No Violento
+AdultoMayor,4,F,A2,3,Violento
+Joven,2,M,A4,5,No Violento
+Niño,22,F,A4,5,No Violento
+Joven,19,M,A2,5,No Violento
+Niño,6,F,A1,5,No Violento
+Adulto,24,M,A3,5,No Violento
+Adulto,16,F,A2,1,No Violento
+Niño,8,F,A2,2,No Violento
+Joven,20,F,A2,4,No Violento
+AdultoMayor,19,M,A1,4,No Violento
+AdultoMayor,2,M,A1,3,No Violento
+Joven,15,F,A4,5,Violento
+Joven,12,M,A1,3,No Violento
+AdultoMayor,2,F,A2,4,No Violento
+Adulto,8,M,A4,2,No Violento
+AdultoMayor,24,M,A1,2,No Violento
+AdultoMayor,3,F,A3,2,Violento
+Joven,20,M,A4,1,No Violento
+Adulto,7,F,A2,3,Violento
+Joven,21,M,A2,5,No Violento
+Joven,11,F,A1,5,Violento
+Adulto,10,F,A4,3,Violento
+Niño,18,F,A4,3,Violento
+Niño,23,M,A4,5,Violento
+Joven,9,F,A2,3,No Violento
+Joven,8,M,A1,2,No Violento
+Joven,14,F,A3,4,No Violento
+Adulto,1,M,A1,4,No Violento
+Adulto,4,M,A2,1,Violento
+Joven,15,M,A4,5,No Violento
+Adulto,9,F,A4,4,No Violento
+Joven,11,F,A2,4,No Violento
+AdultoMayor,24,M,A1,3,Violento
+AdultoMayor,24,F,A3,3,Violento
+AdultoMayor,5,M,A2,1,No Violento
+AdultoMayor,15,F,A2,5,No Violento
+Niño,2,M,A2,3,No Violento
+AdultoMayor,8,F,A1,2,No Violento
+AdultoMayor,6,M,A1,3,No Violento
+Joven,22,F,A4,3,Violento
+AdultoMayor,6,M,A1,2,No Violento
+AdultoMayor,2,M,A2,4,No Violento
+AdultoMayor,6,M,A4,2,No Violento
+Joven,4,F,A1,4,No Violento
+Adulto,3,F,A3,1,Violento
+Adulto,8,M,A4,1,No Violento
+Niño,18,M,A4,3,No Violento
+Adulto,2,M,A1,1,No Violento
+AdultoMayor,15,F,A1,2,Violento
+Joven,24,M,A1,3,Violento
+Joven,10,M,A4,4,Violento
+Joven,11,F,A3,3,Violento
+Joven,0,F,A2,2,Violento
+Adulto,5,M,A1,3,No Violento
+Adulto,17,F,A1,5,Violento
+AdultoMayor,2,M,A1,4,Violento
+Adulto,15,F,A3,3,No Violento
+AdultoMayor,6,F,A1,5,Violento
+Joven,22,M,A1,5,No Violento
+Joven,0,F,A2,5,No Violento
+Joven,22,M,A4,5,No Violento
+AdultoMayor,13,M,A1,5,No Violento
+Niño,2,M,A3,3,No Violento
+Niño,24,F,A4,4,Violento
+AdultoMayor,8,F,A1,1,Violento
+AdultoMayor,4,M,A4,2,No Violento
+Joven,5,F,A4,4,No Violento
+AdultoMayor,24,M,A2,4,No Violento
+Adulto,24,F,A3,3,Violento
+Joven,4,M,A1,1,Violento
+Adulto,11,F,A1,1,Violento
+Joven,7,M,A2,2,No Violento
+Adulto,9,F,A2,2,No Violento
+Niño,5,M,A1,4,Violento
+Niño,8,M,A3,5,Violento
+Adulto,4,M,A4,2,No Violento
+Niño,17,F,A1,2,No Violento
+Joven,24,F,A2,1,No Violento
+Joven,2,M,A2,3,Violento
+AdultoMayor,13,M,A4,4,Violento
+Niño,13,M,A1,1,No Violento
+Niño,2,F,A1,1,No Violento
+Joven,8,M,A1,2,No Violento
+Adulto,23,M,A4,1,Violento
+AdultoMayor,6,F,A3,4,Violento
+Joven,16,F,A2,4,Violento
+Joven,21,M,A1,1,No Violento
+Niño,6,F,A3,5,Violento
+Joven,16,M,A4,2,No Violento
+Adulto,18,M,A1,2,No Violento
+Adulto,15,M,A3,1,Violento
+AdultoMayor,6,F,A4,4,Violento
+Joven,8,F,A1,3,Violento
+AdultoMayor,19,M,A4,3,Violento
+Niño,7,F,A4,4,Violento
+Joven,19,M,A2,1,No Violento
+Joven,23,F,A3,4,Violento
+Niño,5,M,A1,1,Violento
+Niño,12,F,A1,5,No Violento
+Niño,7,M,A2,1,No Violento
+Adulto,15,F,A2,5,Violento
+Adulto,10,M,A1,4,No Violento
+Niño,3,M,A3,2,No Violento
+Niño,21,M,A4,1,No Violento
+AdultoMayor,0,F,A1,3,Violento
+AdultoMayor,8,F,A2,2,No Violento
+Adulto,13,M,A2,2,No Violento
+AdultoMayor,14,M,A4,4,No Violento
+Niño,0,M,A1,5,No Violento
+Joven,20,F,A1,3,Violento
+Joven,0,M,A1,3,No Violento
+Joven,5,M,A4,5,Violento
+Joven,5,F,A3,1,Violento
+AdultoMayor,18,F,A2,2,No Violento
+AdultoMayor,5,M,A1,2,No Violento
+Niño,20,M,A1,4,No Violento
+Adulto,13,F,A3,5,Violento
+Adulto,7,M,A4,1,No Violento
+AdultoMayor,20,F,A2,4,No Violento
+Adulto,23,M,A2,2,No Violento
+Niño,9,F,A2,5,No Violento
+Adulto,17,F,A4,4,Violento
+Joven,11,F,A1,1,No Violento
+Niño,23,M,A3,2,Violento
+AdultoMayor,11,F,A4,1,No Violento
+Adulto,1,M,A4,2,Violento
+Niño,23,F,A1,5,Violento
+Joven,13,M,A4,1,Violento
+Adulto,14,F,A4,4,No Violento
+Joven,24,F,A4,3,Violento
+Niño,9,F,A2,3,Violento
+Adulto,10,F,A1,2,No Violento
+Adulto,8,F,A3,1,No Violento
+AdultoMayor,14,M,A1,1,No Violento
+AdultoMayor,6,M,A2,1,No Violento
+Adulto,7,M,A4,2,No Violento
+AdultoMayor,2,F,A4,4,No Violento
+Joven,17,M,A2,1,No Violento
+Joven,1,M,A1,4,No Violento
+AdultoMayor,0,F,A3,4,Violento
+Adulto,18,F,A2,4,Violento
+Niño,20,M,A2,1,No Violento
+Adulto,13,F,A2,4,No Violento
+AdultoMayor,23,F,A1,5,Violento
+AdultoMayor,23,M,A1,1,No Violento
+Joven,18,M,A4,5,Violento
+Joven,5,F,A1,2,No Violento
+AdultoMayor,17,F,A2,5,Violento
+Adulto,19,M,A4,5,No Violento
+AdultoMayor,24,M,A1,1,No Violento
+Joven,11,F,A3,5,Violento
+Joven,2,M,A4,5,No Violento
+Niño,23,M,A4,3,No Violento
+Adulto,5,M,A1,3,No Violento
+AdultoMayor,7,F,A1,3,No Violento
+AdultoMayor,13,F,A4,2,Violento
+Niño,1,M,A1,2,No Violento
+AdultoMayor,16,F,A2,5,Violento
+AdultoMayor,20,F,A2,3,No Violento
+Niño,6,F,A4,1,Violento
+AdultoMayor,3,F,A1,4,No Violento
+Niño,2,F,A1,1,No Violento
+Joven,1,M,A1,3,No Violento
+Niño,9,M,A4,1,Violento
+Niño,17,M,A3,1,Violento
+Niño,11,F,A2,2,Violento
+Joven,4,M,A1,5,No Violento
+AdultoMayor,3,M,A3,2,Violento
+AdultoMayor,17,F,A4,2,Violento
+Adulto,10,F,A1,5,No Violento
+Joven,4,M,A3,1,Violento
+Joven,8,F,A4,2,Violento
+Joven,8,F,A1,3,No Violento
+Adulto,4,M,A4,1,Violento
+Niño,12,M,A4,4,No Violento
+Adulto,20,F,A2,2,Violento
+Joven,7,F,A3,1,Violento
+AdultoMayor,17,M,A1,3,Violento
+AdultoMayor,11,M,A1,1,No Violento
+Niño,3,F,A2,3,No Violento
+Niño,5,M,A2,1,No Violento
+Joven,14,M,A1,1,No Violento
+Joven,5,M,A3,4,No Violento
+AdultoMayor,19,M,A4,5,No Violento
+Adulto,13,F,A1,2,Violento
+Niño,23,M,A2,2,Violento
+Niño,18,M,A2,5,No Violento
+Adulto,20,F,A4,3,No Violento
+Adulto,4,M,A1,2,No Violento
+AdultoMayor,7,F,A2,3,No Violento
+Joven,1,M,A4,1,No Violento
+Joven,8,M,A1,1,No Violento
+Niño,6,M,A3,4,Violento
+Joven,9,F,A4,2,No Violento
+Niño,20,F,A1,2,Violento
+Joven,15,M,A4,4,No Violento
+Niño,24,F,A4,4,Violento
+Adulto,6,M,A2,1,No Violento
+Niño,16,F,A3,5,No Violento
+Joven,0,M,A1,2,No Violento
+Joven,1,F,A1,2,Violento
+Joven,4,M,A2,3,Violento
+Adulto,18,F,A2,5,Violento
+Niño,5,M,A1,1,No Violento
+Joven,4,M,A3,3,Violento
+AdultoMayor,20,M,A4,1,Violento
+Joven,1,F,A1,3,No Violento
+Adulto,21,F,A2,2,Violento
+AdultoMayor,17,M,A2,1,Violento
+Niño,14,M,A4,4,No Violento
+Niño,16,M,A1,3,Violento
+Joven,3,F,A1,2,No Violento
+Joven,24,M,A1,4,Violento
+Joven,6,M,A4,1,Violento
+AdultoMayor,0,F,A3,3,Violento
+AdultoMayor,9,F,A2,5,No Violento
+Adulto,0,M,A1,1,No Violento
+Joven,22,F,A3,2,No Violento
+Adulto,16,F,A2,5,No Violento
+Niño,24,M,A2,2,No Violento
+AdultoMayor,19,M,A2,1,No Violento
+Adulto,10,F,A1,5,Violento
+Joven,23,F,A1,3,No Violento
+Adulto,12,M,A2,1,No Violento
+Joven,14,F,A4,3,No Violento
+Niño,0,M,A1,5,No Violento
+Adulto,15,F,A3,1,No Violento
+Niño,1,M,A4,1,Violento
+Joven,3,F,A1,2,Violento
+Niño,0,M,A4,5,No Violento
+AdultoMayor,20,F,A4,5,No Violento
+AdultoMayor,12,M,A2,4,No Violento
+Joven,10,M,A3,1,Violento
+Adulto,20,M,A1,2,Violento
+Niño,6,F,A1,5,Violento
+Niño,19,F,A2,1,No Violento
+Joven,6,M,A2,4,No Violento
+Joven,1,M,A1,5,Violento
+AdultoMayor,8,M,A3,2,Violento
+AdultoMayor,1,F,A4,1,No Violento
+Adulto,23,M,A1,2,No Violento
+AdultoMayor,8,M,A2,1,No Violento
+Niño,5,F,A2,2,Violento
+AdultoMayor,16,F,A4,5,Violento
+AdultoMayor,16,M,A1,2,No Violento
+AdultoMayor,8,F,A1,4,No Violento
+Niño,11,F,A1,4,No Violento
+Niño,14,M,A4,5,Violento
+AdultoMayor,3,M,A3,5,Violento
+Joven,3,F,A2,5,Violento
+Joven,0,F,A1,3,No Violento
+Niño,7,M,A3,2,Violento
+AdultoMayor,15,M,A4,3,No Violento
+Joven,8,M,A1,3,No Violento
+Adulto,19,F,A2,1,No Violento
